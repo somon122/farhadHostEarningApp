@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Modern Earn</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_admin">Admin Panel</string>
+    <string name="menu_privacy">Privacy Policy</string>
+    <string name="menu_logout">Logout</string>
+    <string name="menu_exist">Exit</string>
+    <string name="menu_rate">Rate Us</string>
+
+
+    <string name="test_RewardedVideoUnit">ca-app-pub-3940256099942544/5224354917</string>
+    <string name="test_AppUnitId">ca-app-pub-3940256099942544~3347511713</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

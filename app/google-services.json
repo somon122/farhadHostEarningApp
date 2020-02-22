@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "277514593662",
+    "firebase_url": "https://farhadearningapp.firebaseio.com",
+    "project_id": "farhadearningapp",
+    "storage_bucket": "farhadearningapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277514593662:android:6288a8398baf606329ff2f",
+        "android_client_info": {
+          "package_name": "com.digital.farhad_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277514593662-juuuc54rev2u0614csk6hb938ftf0297.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digital.farhad_app",
+            "certificate_hash": "262d321363fce92bbe5b278c1f20693d921fb38c"
+          }
+        },
+        {
+          "client_id": "277514593662-5ohi0auqjl0kmqkobrtienafcnecd9uo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpwuj0p3uhBC-xu1bVmYV0Mjn5gBLNRcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277514593662-5ohi0auqjl0kmqkobrtienafcnecd9uo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

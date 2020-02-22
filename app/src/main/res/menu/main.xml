@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/videoHourly_id"
+        android:orderInCategory="100"
+        android:icon="@drawable/video"
+        android:title="@string/action_settings"
+        app:showAsAction="always" />
+
+
+    <item
+        android:id="@+id/dailyCheck_id"
+        android:orderInCategory="100"
+        android:icon="@drawable/check"
+        android:title="@string/action_settings"
+        app:showAsAction="always" />
+
+</menu>
